@@ -1,0 +1,3 @@
+# scheduledEmail
+通过superagent和cheerio插件
+每天定时发送邮件
