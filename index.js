@@ -144,4 +144,3 @@ let j = schedule.scheduleJob(rule, function() {
   console.log("执行任务");
   getAllDataAndSendMail();
 });
-
